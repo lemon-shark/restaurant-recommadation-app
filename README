@@ -1,1 +1,6 @@
-Hello, I'm Ping
+This is a web application that gives event recommendations based on your favourate history. 
+
+Web App Server: Tomcat 
+Database: MAMP(“My Apache, MySQL, and PHP”)
+External API: TicketMaster
+Frondend: Javascript, CSS, HTML
